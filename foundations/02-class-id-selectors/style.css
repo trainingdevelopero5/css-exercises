@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+
+p {
+    background-color: lightpink;
+}
+
+.third_class {
+    font-size: 30px;
+}
+
+#second_id {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth_id {
+    background-color: greenyellow;
+    font-weight: 900;
+}
